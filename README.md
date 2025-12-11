@@ -6,6 +6,13 @@
 This project aims to **detect brain tumors from MRI scans** using deep learning models and provide **explainability** through Grad-CAM and SHAP.
 The project focuses on *interpretability*, *clinical reliability*, and *transparent AI*.
 
+A deep learning model that detects brain tumors from MRI scans and then spills the tea on how it made the decision.
+
+This project uses CNNs/Transformers to classify MRI images as tumor or no tumor, followed by XAI methods like Grad-CAM and SHAP to show exactly which regions influenced the prediction.
+Basically: the AI doesn’t just guess — it highlights the tumor, explains its logic, and proves it wasn’t hallucinating 
+
+Perfect for medical transparency, model debugging, and making your AI look less like a black box and more like a trustworthy lil analyst.
+
 ---
 
 # 📂 1. Dataset Description 
