@@ -8,7 +8,7 @@ The project focuses on *interpretability*, *clinical reliability*, and *transpar
 
 ---
 
-# 📂 1. Dataset Description (In Detail)
+# 📂 1. Dataset Description 
 
 The dataset consists of **MRI brain images** collected from publicly available medical datasets (such as BraTS or standard Kaggle tumor datasets).
 Typical dataset structure:
