@@ -41,7 +41,7 @@ Typical dataset structure:
 
 Preprocessing ensures all MRI images are consistent and usable for deep learning.
 
-### **Step 1 — Skull Stripping **
+### **Step 1 — Skull Stripping**
 
 Removes skull, leaving only brain region.
 
@@ -98,9 +98,10 @@ We used two types of architectures:
 
 ## ⭐ A. CNN-Based Classification (ResNet / Custom CNN)
 
-![Image](https://www.researchgate.net/publication/333475917/figure/fig1/AS%3A766539389218817%401559768640694/A-schematic-view-of-ResNet-architecture-15-decomposed-into-three-blocks-embedding.ppm?utm_source=chatgpt.com)
+<img width="850" height="487" alt="image" src="https://github.com/user-attachments/assets/5e279c28-ac82-4d36-97ea-a25f5ff2d755" />
+<img width="3003" height="1335" alt="image" src="https://github.com/user-attachments/assets/2b763ddc-00ee-482c-9c34-2b4f08512951" />
 
-![Image](https://www.mdpi.com/electronics/electronics-11-01775/article_deploy/html/images/electronics-11-01775-g001.png?utm_source=chatgpt.com)
+
 
 ### Why CNN?
 
@@ -120,6 +121,8 @@ We used two types of architectures:
 ## ⭐ B. Vision Transformers (ViT) — Optional Enhancement
 
 ![Image](https://media.geeksforgeeks.org/wp-content/uploads/20250108160202257232/Vision-Transformer-Architecture_.webp?utm_source=chatgpt.com)
+<img width="850" height="447" alt="image" src="https://github.com/user-attachments/assets/a48a9333-5f30-4058-9fa5-c5ce9742f096" />
+
 
 ![Image](https://www.researchgate.net/publication/387984726/figure/fig2/AS%3A11431281419262625%401746193965850/A-block-figure-of-the-Vision-Transformer-ViT-Input-images-are-divided-into-patches.tif?utm_source=chatgpt.com)
 
