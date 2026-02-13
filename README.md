@@ -1,6 +1,6 @@
 
 
-# 🧠 EXPLAINABLE FRAMEWORK FOR BRAIN TUMOR DETECTION
+# EXPLAINABLE FRAMEWORK FOR BRAIN TUMOR DETECTION
 
 
 This project aims to **detect brain tumors from MRI scans** using deep learning models and provide **explainability** through Grad-CAM and SHAP.
@@ -15,7 +15,7 @@ Perfect for medical transparency, model debugging, and making your AI look less 
 
 ---
 
-# 📂 1. Dataset Description 
+#  1. Dataset Description 
 
 The dataset consists of **MRI brain images** collected from publicly available medical datasets (such as BraTS or standard Kaggle tumor datasets).
 Typical dataset structure:
@@ -24,7 +24,7 @@ Typical dataset structure:
 * **No-Tumor Images** – Healthy MRI slices
 * **Modalities** may include FLAIR, T1, T1CE, T2 (if multi-modal)
 
-### 🧠 Types of MRI Modalities 
+###  Types of MRI Modalities 
 
 | Modality  | What It Shows                      | Why It Helps                              |
 | --------- | ---------------------------------- | ----------------------------------------- |
@@ -188,7 +188,7 @@ Use cases:
 
 ---
 
-# 🧠  Why Explainability Matters in Medical AI
+#   Why Explainability Matters in Medical AI
 
 Deep learning models are often black boxes.
 XAI ensures:
